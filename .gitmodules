@@ -1,0 +1,3 @@
+[submodule "EvolvedAgent"]
+	path = EvolvedAgent
+	url = https://github.com/huggingface/EvolvedAgent.git
